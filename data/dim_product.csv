@@ -1,0 +1,121 @@
+product_id,product_name,category,unit_price,unit_cost
+P0001,Beauty item 001,Beauty,51.4,34.03
+P0002,Clothing item 002,Clothing,40.4,30.45
+P0003,Toys item 003,Toys,18.93,12.51
+P0004,Sports item 004,Sports,65.04,38.66
+P0005,Electronics item 005,Electronics,276.02,160.36
+P0006,Grocery item 006,Grocery,14.75,8.84
+P0007,Beauty item 007,Beauty,36.4,24.69
+P0008,Beauty item 008,Beauty,29.36,22.13
+P0009,Electronics item 009,Electronics,482.97,294.06
+P0010,Clothing item 010,Clothing,26.36,14.15
+P0011,Furniture item 011,Furniture,239.95,127.85
+P0012,Grocery item 012,Grocery,5.27,3.75
+P0013,Sports item 013,Sports,50.35,37.05
+P0014,Toys item 014,Toys,16.15,7.86
+P0015,Clothing item 015,Clothing,59.89,28.35
+P0016,Home Appliances item 016,Home Appliances,162.87,107.18
+P0017,Clothing item 017,Clothing,23.22,11.64
+P0018,Electronics item 018,Electronics,158.29,116.92
+P0019,Toys item 019,Toys,34.55,19.3
+P0020,Sports item 020,Sports,87.49,43.78
+P0021,Beauty item 021,Beauty,61.4,47.42
+P0022,Furniture item 022,Furniture,1187.44,603.14
+P0023,Grocery item 023,Grocery,9.64,5.3
+P0024,Toys item 024,Toys,19.22,9.68
+P0025,Beauty item 025,Beauty,9.58,4.7
+P0026,Electronics item 026,Electronics,282.01,128.99
+P0027,Clothing item 027,Clothing,31.21,14.65
+P0028,Electronics item 028,Electronics,207.38,106.0
+P0029,Electronics item 029,Electronics,189.81,88.96
+P0030,Sports item 030,Sports,56.32,37.0
+P0031,Beauty item 031,Beauty,40.39,27.8
+P0032,Grocery item 032,Grocery,8.59,5.05
+P0033,Furniture item 033,Furniture,297.95,167.24
+P0034,Furniture item 034,Furniture,200.79,125.81
+P0035,Clothing item 035,Clothing,21.18,16.02
+P0036,Electronics item 036,Electronics,200.86,150.22
+P0037,Electronics item 037,Electronics,244.02,113.52
+P0038,Clothing item 038,Clothing,99.71,51.2
+P0039,Home Appliances item 039,Home Appliances,190.87,101.71
+P0040,Sports item 040,Sport,93.37,50.17
+P0041,Clothing item 041,Clothing,35.94,23.36
+P0042,Toys item 042,Toys,17.6,10.48
+P0043,Beauty item 043,Beauty,16.19,7.56
+P0044,Home Appliances item 044,Home Appliances,129.88,75.43
+P0045,Toys item 045,Toys,78.18,49.51
+P0046,Beauty item 046,Beauty,17.27,8.39
+P0047,Furniture item 047,Furniture,466.68,346.14
+P0048,Home Appliances item 048,Home Appliances,119.9,56.14
+P0049,Sports item 049,Sports,91.25,70.6
+P0050,Electronics item 050,Electronics,297.28,144.09
+P0051,Electronics item 051,Electronics,232.98,173.63
+P0052,Electronics item 052,Electronics,245.46,188.0
+P0053,Beauty item 053,Beauty,18.62,14.76
+P0054,Sports item 054,Sports,73.34,53.59
+P0055,Beauty item 055,Beauty,20.37,14.72
+P0056,Beauty item 056,Beauty,14.4,9.72
+P0057,Clothing item 057,Clothing,25.32,18.3
+P0058,Clothing item 058,Clothing,48.63,24.17
+P0059,Electronics item 059,Electronics,508.8,324.42
+P0060,Electronics item 060,Electronic,268.66,169.25
+P0061,Sports item 061,Sports,56.88,42.67
+P0062,Clothing item 062,Clothing,51.18,31.32
+P0063,Clothing item 063,Clothing,80.99,47.36
+P0064,Beauty item 064,Beauty,27.59,18.59
+P0065,Sports item 065,Sports,49.87,27.09
+P0066,Clothing item 066,Clothing,74.03,36.93
+P0067,Clothing item 067,Clothing,54.58,33.69
+P0068,Home Appliances item 068,Home Appliances,359.26,214.09
+P0069,Electronics item 069,Electronics,271.49,144.27
+P0070,Clothing item 070,Clothing,25.94,15.01
+P0071,Home Appliances item 071,Home Appliances,97.25,56.23
+P0072,Clothing item 072,Cloting,94.59,53.41
+P0073,Toys item 073,Toys,65.16,37.98
+P0074,Home Appliances item 074,Home Appliances,166.03,114.56
+P0075,Electronics item 075,Electronics,210.4,116.54
+P0076,Home Appliances item 076,Home Appliances,347.45,271.74
+P0077,Home Appliances item 077,Home Appliances,109.38,84.3
+P0078,Sports item 078,Sports,40.11,24.8
+P0079,Clothing item 079,Clothing,60.11,33.96
+P0080,Beauty item 080,Beauty,20.93,13.34
+P0081,Sports item 081,Sports,59.86,44.72
+P0082,Clothing item 082,Clothing,41.81,28.36
+P0083,Beauty item 083,Beauty,29.1,21.29
+P0084,Electronics item 084,Electronics,470.99,299.76
+P0085,Electronics item 085,Electronics,260.4,174.86
+P0086,Electronics item 086,Electronics,334.03,184.0
+P0087,Beauty item 087,Beauty,9.94,7.03
+P0088,Clothing item 088,Clothing,44.02,22.93
+P0089,Electronics item 089,Electronics,171.06,118.58
+P0090,Clothing item 090,Clothing,26.0,19.53
+P0091,Electronics item 091,Electronics,168.39,83.56
+P0092,Sports item 092,Sports,51.62,34.33
+P0093,Clothing item 093,Clothing,67.95,32.84
+P0094,Furniture item 094,Furniture,176.17,124.02
+P0095,Home Appliances item 095,Home Appliances,182.5,87.52
+P0096,Sports item 096,Sports,48.25,37.52
+P0097,Furniture item 097,Furniture,276.13,137.54
+P0098,Electronics item 098,Electronics,392.56,308.4
+P0099,Electronics item 099,Electronics,318.5,232.6
+P0100,Grocery item 100,Grocery,14.6,9.6
+P0101,Toys item 101,Toys,27.99,20.26
+P0102,Sports item 102,Sports,43.87,31.95
+P0103,Home Appliances item 103,Home Appliances,162.75,127.13
+P0104,Grocery item 104,Grocery,8.92,4.81
+P0105,Beauty item 105,Beauty,27.07,17.77
+P0106,Beauty item 106,Beauty,15.35,7.42
+P0107,Clothing item 107,Clothing,46.87,31.2
+P0108,Home Appliances item 108,Home Appliances,199.47,101.72
+P0109,Electronics item 109,Electronics,776.13,502.72
+P0110,Toys item 110,Toys,69.81,45.4
+P0111,Clothing item 111,Clothing,30.65,18.79
+P0112,Home Appliances item 112,Home Appliances,158.16,100.1
+P0113,Home Appliances item 113,Home Appliances,93.17,66.84
+P0114,Clothing item 114,Clothing,34.5,25.18
+P0115,Electronics item 115,Electronics,288.15,179.3
+P0116,Toys item 116,Toys,51.62,34.06
+P0117,Beauty item 117,Beauty,18.01,13.97
+P0118,Beauty item 118,Beauty,18.63,9.16
+P0119,Clothing item 119,Clothing,17.12,8.41
+P0120,Sports item 120,Sports,55.76,26.8

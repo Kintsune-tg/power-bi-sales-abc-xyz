@@ -1,0 +1,1501 @@
+customer_id,region,segment,acquisition_channel
+C00001,West,Retail,Paid Search
+C00002,South,Small Business,Paid Search
+C00003,West,Small Business,Social
+C00004,West,Retail,Social
+C00005,South,Retail,Organic
+C00006,Central,Small Business,Paid Search
+C00007,West,Retail,Email
+C00008,South,Retail,Organic
+C00009,South,Small Business,Email
+C00010,South,Small Business,Organic
+C00011,North,Small Business,Paid Search
+C00012,North,Corporate,Paid Search
+C00013,Central,Retail,Organic
+C00014,East,Retail,Email
+C00015,South,Retail,Paid Search
+C00016,West,Retail,Email
+C00017,,Retail,Organic
+C00018,Central,Retail,Email
+C00019,West,Retail,Email
+C00020,East,Corporate,Social
+C00021,South,Retail,Organic
+C00022,Central,Retail,Social
+C00023,West,Retail,Paid Search
+C00024,Central,Retail,Email
+C00025,North,Small Business,Paid Search
+C00026,Central,Retail,Organic
+C00027,West,Retail,Organic
+C00028,North,Corporate,Social
+C00029,East,Retail,Email
+C00030,West,Retail,Organic
+C00031,North,Retail,Social
+C00032,East,Retail,Email
+C00033,Central,Corporate,Organic
+C00034,South,Retail,Organic
+C00035,East,Retail,Social
+C00036,East,Retail,Social
+C00037,South,Retail,Organic
+C00038,Central,Retail,Referral
+C00039,West,Small Business,Paid Search
+C00040,North,Retail,Email
+C00041,Central,Retail,Email
+C00042,Central,Retail,Referral
+C00043,South,Retail,Paid Search
+C00044,Central,Retail,Organic
+C00045,North,Small Business,Paid Search
+C00046,Central,Small Business,Organic
+C00047,West,Retail,Social
+C00048,West,Retail,Organic
+C00049,North,Small Business,Paid Search
+C00050,Central,Retail,Organic
+C00051,North,Retail,Organic
+C00052,South,Retail,Organic
+C00053,North,Corporate,Social
+C00054,West,Corporate,Referral
+C00055,North,Retail,Organic
+C00056,Central,Small Business,Email
+C00057,West,Retail,Email
+C00058,North,Retail,Paid Search
+C00059,North,retail ,Social
+C00060,North,Retail,Paid Search
+C00061,West,Retail,Organic
+C00062,Central,Retail,Paid Search
+C00063,South,Retail,Organic
+C00064,Central,Corporate,Email
+C00065,North,Retail,Email
+C00066,Central,Retail,Referral
+C00067,Central,Retail,Social
+C00068,West,Retail,Social
+C00069,West,Corporate,Email
+C00070,,Small Business,Organic
+C00071,North,Corporate,Organic
+C00072,North,Retail,Social
+C00073,North,Retail,Paid Search
+C00074,East,Retail,Paid Search
+C00075,West,Retail,Organic
+C00076,West,Retail,Social
+C00077,Central,Retail,Organic
+C00078,North,Retail,Organic
+C00079,West,Retail,Organic
+C00080,North,Retail,Paid Search
+C00081,South,Small Business,Email
+C00082,West,Small Business,Paid Search
+C00083,Central,Retail,Social
+C00084,West,Small Business,Referral
+C00085,North,Retail,Paid Search
+C00086,,Small Business,Referral
+C00087,North,Small Business,Social
+C00088,Central,Retail,Social
+C00089,West,Corporate,Organic
+C00090,North,Small Business,Organic
+C00091,North,Small Business,Email
+C00092,North,Small Business,Referral
+C00093,Central,Retail,Email
+C00094,East,Retail,Email
+C00095,West,Small Business,Organic
+C00096,West,Retail,Referral
+C00097,East,Retail,Paid Search
+C00098,North,Retail,Referral
+C00099,Central,Retail,Organic
+C00100,South,Retail,Organic
+C00101,East,Corporate,Referral
+C00102,West,Retail,Referral
+C00103,West,Corporate,Social
+C00104,Central,Small Business,Paid Search
+C00105,North,Retail,Paid Search
+C00106,East,Retail,Email
+C00107,South,Retail,Paid Search
+C00108,East,Small Business,Paid Search
+C00109,North,Corporate,Social
+C00110,North,Retail,Paid Search
+C00111,South,Retail,Social
+C00112,South,Retail,Paid Search
+C00113,East,Retail,Referral
+C00114,West,small business ,Email
+C00115,West,Corporate,Email
+C00116,South,Retail,Social
+C00117,South,Small Business,Paid Search
+C00118,North,Retail,Social
+C00119,East,Small Business,Referral
+C00120,South,Retail,Social
+C00121,North,Retail,Social
+C00122,South,Small Business,Social
+C00123,East,Retail,Social
+C00124,South,Corporate,Social
+C00125,East,Small Business,Organic
+C00126,East,Retail,Paid Search
+C00127,West,Retail,Social
+C00128,West,Corporate,Organic
+C00129,West,Retail,Email
+C00130,South,Retail,Social
+C00131,West,Retail,Organic
+C00132,East,Corporate,Referral
+C00133,East,Retail,Social
+C00134,West,Retail,Referral
+C00135,South,Small Business,Paid Search
+C00136,East,Retail,Email
+C00137,West,Small Business,Paid Search
+C00138,Central,Retail,Social
+C00139,Central,Small Business,Organic
+C00140,East,Corporate,Social
+C00141,East,Retail,Social
+C00142,West,Small Business,Social
+C00143,South,Retail,Paid Search
+C00144,Central,Retail,Referral
+C00145,East,Retail,Social
+C00146,North,Corporate,Organic
+C00147,North,Retail,Email
+C00148,Central,Retail,Social
+C00149,North,Retail,Email
+C00150,South,Retail,Email
+C00151,South,Retail,Email
+C00152,North,Retail,Referral
+C00153,South,Retail,Social
+C00154,West,Retail,Organic
+C00155,North,Retail,Paid Search
+C00156,Central,Retail,Referral
+C00157,Central,Corporate,Paid Search
+C00158,South,Retail,Email
+C00159,North,Retail,Organic
+C00160,West,Retail,Paid Search
+C00161,North,Retail,Paid Search
+C00162,South,Retail,Paid Search
+C00163,Central,Small Business,Organic
+C00164,Central,Retail,Organic
+C00165,West,Retail,Referral
+C00166,South,Retail,Paid Search
+C00167,West,Retail,Organic
+C00168,West,Retail,Organic
+C00169,South,Retail,Paid Search
+C00170,West,Retail,Organic
+C00171,North,Retail,Social
+C00172,North,Corporate,Referral
+C00173,East,Small Business,Organic
+C00174,North,Retail,Social
+C00175,North,Retail,Organic
+C00176,Central,Corporate,Paid Search
+C00177,Central,Retail,Email
+C00178,East,Corporate,Paid Search
+C00179,Central,Retail,Email
+C00180,Central,Small Business,Organic
+C00181,North,Small Business,Paid Search
+C00182,East,Retail,Paid Search
+C00183,South,Retail,Paid Search
+C00184,North,Retail,Email
+C00185,West,Retail,Organic
+C00186,East,Retail,Email
+C00187,East,Small Business,Email
+C00188,North,Retail,Social
+C00189,North,Retail,Paid Search
+C00190,Central,Small Business,Paid Search
+C00191,North,Retail,Organic
+C00192,South,Retail,Referral
+C00193,South,Small Business,Paid Search
+C00194,East,Retail,Email
+C00195,East,Retail,Social
+C00196,East,Retail,Paid Search
+C00197,North,Small Business,Social
+C00198,South,Retail,Paid Search
+C00199,Central,Retail,Email
+C00200,West,Retail,Organic
+C00201,West,Retail,Email
+C00202,West,Small Business,Referral
+C00203,West,Retail,Email
+C00204,North,Small Business,Paid Search
+C00205,South,Retail,Referral
+C00206,East,Retail,Paid Search
+C00207,South,Small Business,Referral
+C00208,Central,Retail,Organic
+C00209,East,Retail,Paid Search
+C00210,West,Small Business,Paid Search
+C00211,Central,Retail,Paid Search
+C00212,East,Retail,Paid Search
+C00213,Central,Small Business,Referral
+C00214,East,Retail,Organic
+C00215,Central,Retail,Social
+C00216,South,Retail,Organic
+C00217,,Retail,Referral
+C00218,East,Retail,Referral
+C00219,North,Corporate,Paid Search
+C00220,South,Retail,Social
+C00221,Central,Corporate,Email
+C00222,West,Retail,Referral
+C00223,North,Retail,Paid Search
+C00224,South,Retail,Paid Search
+C00225,North,Corporate,Referral
+C00226,North,Retail,Organic
+C00227,Central,Retail,Referral
+C00228,East,Small Business,Paid Search
+C00229,South,Retail,Referral
+C00230,East,Retail,Organic
+C00231,North,Small Business,Organic
+C00232,South,Retail,Email
+C00233,West,Retail,Email
+C00234,West,Retail,Email
+C00235,Central,Retail,Email
+C00236,West,Retail,Paid Search
+C00237,East,Corporate,Organic
+C00238,West,Retail,Organic
+C00239,Central,Small Business,Paid Search
+C00240,West,Small Business,Organic
+C00241,Central,Retail,Email
+C00242,West,Corporate,Organic
+C00243,Central,Corporate,Organic
+C00244,North,Small Business,Organic
+C00245,West,Retail,Organic
+C00246,East,Retail,Organic
+C00247,East,Retail,Social
+C00248,West,Retail,Paid Search
+C00249,Central,Retail,Social
+C00250,Central,Retail,Email
+C00251,South,Retail,Social
+C00252,West,Small Business,Social
+C00253,West,Retail,Paid Search
+C00254,South,Retail,Organic
+C00255,North,Retail,Paid Search
+C00256,North,Retail,Email
+C00257,West,Retail,Social
+C00258,East,Retail,Organic
+C00259,Central,Retail,Paid Search
+C00260,East,Retail,Referral
+C00261,Central,retail ,Social
+C00262,South,Retail,Social
+C00263,West,Retail,Email
+C00264,North,Retail,Social
+C00265,East,Retail,Social
+C00266,Central,Retail,Organic
+C00267,Central,Retail,Organic
+C00268,Central,Corporate,Email
+C00269,North,Small Business,Social
+C00270,South,Small Business,Paid Search
+C00271,North,Retail,Social
+C00272,North,Retail,Organic
+C00273,West,Retail,Referral
+C00274,West,Corporate,Organic
+C00275,West,Corporate,Referral
+C00276,Central,Small Business,Paid Search
+C00277,West,Small Business,Organic
+C00278,Central,Retail,Organic
+C00279,North,Corporate,Referral
+C00280,South,Small Business,Organic
+C00281,West,Retail,Organic
+C00282,Central,Small Business,Referral
+C00283,North,Retail,Paid Search
+C00284,East,Small Business,Paid Search
+C00285,West,Corporate,Organic
+C00286,North,Retail,Email
+C00287,South,Corporate,Organic
+C00288,Central,Retail,Organic
+C00289,West,Corporate,Paid Search
+C00290,South,Corporate,Organic
+C00291,Central,Retail,Paid Search
+C00292,South,Small Business,Organic
+C00293,Central,Retail,Organic
+C00294,South,Retail,Paid Search
+C00295,East,Retail,Email
+C00296,South,Retail,Organic
+C00297,South,Retail,Organic
+C00298,Central,Retail,Email
+C00299,North,Retail,Email
+C00300,North,Retail,Social
+C00301,South,Small Business,Organic
+C00302,West,Retail,Paid Search
+C00303,Central,Small Business,Organic
+C00304,Central,Retail,Organic
+C00305,South,Retail,Paid Search
+C00306,South,Retail,Social
+C00307,North,Retail,Paid Search
+C00308,East,Retail,Social
+C00309,Central,Retail,Organic
+C00310,West,Retail,Paid Search
+C00311,East,Retail,Referral
+C00312,South,Retail,Email
+C00313,Central,Retail,Paid Search
+C00314,East,Small Business,Social
+C00315,North,Retail,Organic
+C00316,South,Small Business,Organic
+C00317,North,Corporate,Social
+C00318,North,Small Business,Organic
+C00319,North,Small Business,Paid Search
+C00320,East,Retail,Paid Search
+C00321,West,Retail,Organic
+C00322,South,Retail,Organic
+C00323,East,Small Business,Paid Search
+C00324,Central,Retail,Email
+C00325,West,Retail,Social
+C00326,East,small business ,Paid Search
+C00327,South,Retail,Organic
+C00328,Central,Retail,Social
+C00329,South,Corporate,Organic
+C00330,South,Retail,Paid Search
+C00331,Central,Retail,Referral
+C00332,East,Small Business,Paid Search
+C00333,West,Retail,Organic
+C00334,East,Retail,Organic
+C00335,West,Retail,Organic
+C00336,South,Corporate,Paid Search
+C00337,South,Retail,Email
+C00338,South,Small Business,Organic
+C00339,North,Small Business,Social
+C00340,Central,Retail,Social
+C00341,South,Retail,Organic
+C00342,East,Retail,Organic
+C00343,West,Corporate,Paid Search
+C00344,West,Retail,Social
+C00345,East,Retail,Paid Search
+C00346,East,Retail,Social
+C00347,Central,Small Business,Email
+C00348,West,Retail,Referral
+C00349,Central,Small Business,Email
+C00350,,Retail,Referral
+C00351,West,Small Business,Email
+C00352,North,Retail,Referral
+C00353,East,Retail,Social
+C00354,North,Small Business,Referral
+C00355,West,Small Business,Email
+C00356,,Retail,Paid Search
+C00357,East,Retail,Social
+C00358,East,Retail,Paid Search
+C00359,North,Retail,Email
+C00360,Central,Retail,Paid Search
+C00361,North,Small Business,Referral
+C00362,North,Retail,Referral
+C00363,South,Corporate,Email
+C00364,North,Retail,Organic
+C00365,East,Retail,Social
+C00366,East,Corporate,Referral
+C00367,South,Retail,Email
+C00368,North,Corporate,Email
+C00369,North,Retail,Social
+C00370,South,Small Business,Social
+C00371,North,Corporate,Organic
+C00372,West,Small Business,Email
+C00373,North,Retail,Organic
+C00374,South,Retail,Social
+C00375,South,Retail,Referral
+C00376,South,Retail,Paid Search
+C00377,North,Retail,Organic
+C00378,North,Retail,Organic
+C00379,Central,Retail,Email
+C00380,North,Retail,Paid Search
+C00381,East,Retail,Organic
+C00382,East,Retail,Social
+C00383,South,Retail,Organic
+C00384,East,Retail,Email
+C00385,West,Retail,Paid Search
+C00386,Central,Retail,Organic
+C00387,South,Retail,Organic
+C00388,South,Corporate,Paid Search
+C00389,South,Retail,Paid Search
+C00390,East,Retail,Referral
+C00391,West,Small Business,Paid Search
+C00392,South,Retail,Paid Search
+C00393,South,Small Business,Organic
+C00394,Central,Corporate,Organic
+C00395,North,Retail,Email
+C00396,East,Retail,Organic
+C00397,West,Corporate,Email
+C00398,North,Small Business,Paid Search
+C00399,North,Retail,Organic
+C00400,North,Retail,Organic
+C00401,Central,Retail,Organic
+C00402,North,Retail,Referral
+C00403,North,Corporate,Paid Search
+C00404,North,Retail,Paid Search
+C00405,North,Corporate,Social
+C00406,West,Small Business,Social
+C00407,South,Retail,Email
+C00408,East,Retail,Email
+C00409,East,Corporate,Social
+C00410,Central,Small Business,Referral
+C00411,North,Small Business,Referral
+C00412,Central,Retail,Paid Search
+C00413,West,Retail,Social
+C00414,North,Retail,Organic
+C00415,West,Small Business,Referral
+C00416,Central,Retail,Email
+C00417,South,Retail,Organic
+C00418,Central,Retail,Referral
+C00419,East,Retail,Email
+C00420,West,Corporate,Organic
+C00421,Central,Retail,Paid Search
+C00422,South,Retail,Email
+C00423,Central,Small Business,Email
+C00424,South,Corporate,Organic
+C00425,West,Retail,Paid Search
+C00426,West,Retail,Social
+C00427,North,Small Business,Organic
+C00428,South,Corporate,Paid Search
+C00429,South,Retail,Organic
+C00430,North,Retail,Organic
+C00431,North,Retail,Social
+C00432,South,Retail,Social
+C00433,North,Corporate,Social
+C00434,North,Retail,Referral
+C00435,West,Retail,Paid Search
+C00436,West,Corporate,Organic
+C00437,West,Small Business,Organic
+C00438,South,Corporate,Organic
+C00439,Central,Retail,Paid Search
+C00440,East,Retail,Organic
+C00441,North,Retail,Organic
+C00442,North,Retail,Organic
+C00443,West,Retail,Social
+C00444,North,Retail,Social
+C00445,East,Retail,Email
+C00446,Central,Small Business,Referral
+C00447,North,Small Business,Social
+C00448,North,Retail,Organic
+C00449,Central,Retail,Social
+C00450,East,Retail,Organic
+C00451,North,Retail,Paid Search
+C00452,Central,Retail,Paid Search
+C00453,Central,Retail,Paid Search
+C00454,East,Corporate,Organic
+C00455,West,Retail,Social
+C00456,South,Small Business,Referral
+C00457,,Retail,Referral
+C00458,East,Retail,Social
+C00459,South,Retail,Paid Search
+C00460,West,Retail,Organic
+C00461,Central,Retail,Social
+C00462,North,Small Business,Paid Search
+C00463,East,Retail,Organic
+C00464,South,Retail,Paid Search
+C00465,Central,Retail,Email
+C00466,South,Retail,Social
+C00467,West,Retail,Paid Search
+C00468,East,Retail,Social
+C00469,South,Small Business,Paid Search
+C00470,West,Retail,Paid Search
+C00471,West,Retail,Organic
+C00472,East,Corporate,Paid Search
+C00473,West,Small Business,Social
+C00474,Central,Retail,Organic
+C00475,South,Retail,Referral
+C00476,East,Retail,Organic
+C00477,North,Retail,Social
+C00478,West,Retail,Social
+C00479,East,Corporate,Social
+C00480,South,Retail,Social
+C00481,North,Corporate,Email
+C00482,Central,Retail,Paid Search
+C00483,South,Small Business,Social
+C00484,West,Small Business,Social
+C00485,North,Retail,Organic
+C00486,Central,Retail,Organic
+C00487,North,Retail,Paid Search
+C00488,North,Small Business,Organic
+C00489,Central,Retail,Paid Search
+C00490,Central,Retail,Paid Search
+C00491,North,Retail,Social
+C00492,East,Corporate,Organic
+C00493,West,Retail,Referral
+C00494,Central,Retail,Paid Search
+C00495,South,Small Business,Social
+C00496,East,Retail,Organic
+C00497,West,Small Business,Paid Search
+C00498,West,retail ,Organic
+C00499,West,Retail,Social
+C00500,East,Small Business,Paid Search
+C00501,North,Corporate,Email
+C00502,Central,Corporate,Paid Search
+C00503,Central,Retail,Social
+C00504,West,Retail,Organic
+C00505,North,Retail,Social
+C00506,North,Retail,Paid Search
+C00507,West,Retail,Paid Search
+C00508,North,Retail,Organic
+C00509,Central,Retail,Organic
+C00510,South,Retail,Organic
+C00511,West,Retail,Email
+C00512,Central,Retail,Paid Search
+C00513,South,Small Business,Organic
+C00514,South,Retail,Email
+C00515,West,Retail,Organic
+C00516,East,Corporate,Paid Search
+C00517,South,Small Business,Social
+C00518,West,Retail,Email
+C00519,Central,Retail,Social
+C00520,East,Retail,Paid Search
+C00521,North,Retail,Email
+C00522,South,corporate ,Organic
+C00523,South,Small Business,Email
+C00524,North,Retail,Referral
+C00525,North,Corporate,Email
+C00526,West,Retail,Organic
+C00527,South,Retail,Organic
+C00528,Central,Corporate,Social
+C00529,South,Retail,Paid Search
+C00530,North,Retail,Paid Search
+C00531,West,Retail,Email
+C00532,Central,Small Business,Social
+C00533,South,Retail,Paid Search
+C00534,North,Retail,Paid Search
+C00535,North,Retail,Organic
+C00536,East,Retail,Organic
+C00537,East,Retail,Organic
+C00538,South,Corporate,Referral
+C00539,North,Corporate,Social
+C00540,East,Small Business,Paid Search
+C00541,Central,Small Business,Paid Search
+C00542,West,Retail,Social
+C00543,East,retail ,Referral
+C00544,North,Retail,Email
+C00545,South,Retail,Paid Search
+C00546,South,Small Business,Referral
+C00547,West,Corporate,Paid Search
+C00548,Central,Small Business,Paid Search
+C00549,Central,Retail,Email
+C00550,Central,Retail,Paid Search
+C00551,Central,Retail,Paid Search
+C00552,Central,Retail,Paid Search
+C00553,North,Retail,Paid Search
+C00554,North,Retail,Paid Search
+C00555,South,Retail,Social
+C00556,East,Small Business,Paid Search
+C00557,North,Retail,Organic
+C00558,Central,Retail,Email
+C00559,West,Corporate,Paid Search
+C00560,East,Retail,Email
+C00561,North,Small Business,Organic
+C00562,South,Corporate,Social
+C00563,North,Retail,Paid Search
+C00564,Central,Corporate,Referral
+C00565,East,Retail,Organic
+C00566,West,Corporate,Email
+C00567,South,Small Business,Paid Search
+C00568,South,Corporate,Social
+C00569,South,Retail,Paid Search
+C00570,West,Retail,Organic
+C00571,West,Corporate,Paid Search
+C00572,North,Small Business,Organic
+C00573,Central,Retail,Paid Search
+C00574,North,Corporate,Social
+C00575,Central,retail ,Paid Search
+C00576,North,Corporate,Organic
+C00577,South,Small Business,Organic
+C00578,Central,retail ,Organic
+C00579,North,Retail,Organic
+C00580,South,Retail,Social
+C00581,East,Retail,Organic
+C00582,,Retail,Email
+C00583,West,Retail,Organic
+C00584,Central,Retail,Organic
+C00585,Central,Retail,Email
+C00586,South,Retail,Organic
+C00587,East,Corporate,Paid Search
+C00588,South,Corporate,Email
+C00589,South,Retail,Email
+C00590,North,Corporate,Social
+C00591,Central,Retail,Organic
+C00592,Central,Retail,Social
+C00593,West,Retail,Email
+C00594,East,Retail,Email
+C00595,East,Retail,Organic
+C00596,East,Retail,Paid Search
+C00597,East,Small Business,Paid Search
+C00598,East,Corporate,Organic
+C00599,North,Retail,Social
+C00600,North,Retail,Organic
+C00601,Central,Retail,Paid Search
+C00602,East,Corporate,Organic
+C00603,Central,Small Business,Paid Search
+C00604,North,Retail,Organic
+C00605,East,Retail,Paid Search
+C00606,North,Retail,Organic
+C00607,South,Retail,Email
+C00608,North,Small Business,Organic
+C00609,North,Corporate,Paid Search
+C00610,Central,Retail,Organic
+C00611,South,Retail,Organic
+C00612,West,Retail,Organic
+C00613,East,Retail,Organic
+C00614,South,Retail,Organic
+C00615,East,Retail,Paid Search
+C00616,North,Small Business,Social
+C00617,Central,Retail,Organic
+C00618,Central,Retail,Paid Search
+C00619,West,Retail,Social
+C00620,East,Retail,Organic
+C00621,North,Small Business,Paid Search
+C00622,Central,Retail,Organic
+C00623,South,Corporate,Organic
+C00624,North,Small Business,Paid Search
+C00625,South,Retail,Email
+C00626,West,Retail,Email
+C00627,West,Small Business,Email
+C00628,West,Retail,Paid Search
+C00629,West,Retail,Organic
+C00630,North,Small Business,Paid Search
+C00631,Central,Small Business,Organic
+C00632,East,Retail,Organic
+C00633,West,Retail,Organic
+C00634,North,Retail,Paid Search
+C00635,Central,Small Business,Paid Search
+C00636,South,Retail,Organic
+C00637,North,Retail,Social
+C00638,East,Corporate,Paid Search
+C00639,North,Small Business,Email
+C00640,North,Small Business,Organic
+C00641,West,Retail,Paid Search
+C00642,South,Retail,Organic
+C00643,Central,Small Business,Paid Search
+C00644,South,Small Business,Organic
+C00645,West,Retail,Organic
+C00646,East,Retail,Social
+C00647,West,Retail,Organic
+C00648,East,Retail,Organic
+C00649,East,Retail,Email
+C00650,Central,Retail,Organic
+C00651,South,Retail,Social
+C00652,North,Small Business,Paid Search
+C00653,West,Retail,Organic
+C00654,Central,Retail,Paid Search
+C00655,North,Retail,Organic
+C00656,East,Retail,Social
+C00657,Central,Retail,Organic
+C00658,West,Retail,Organic
+C00659,Central,Retail,Paid Search
+C00660,East,Retail,Email
+C00661,West,Small Business,Referral
+C00662,South,Retail,Email
+C00663,Central,Small Business,Social
+C00664,South,Small Business,Social
+C00665,West,Small Business,Paid Search
+C00666,South,Retail,Email
+C00667,East,Retail,Paid Search
+C00668,West,Retail,Paid Search
+C00669,East,Corporate,Social
+C00670,Central,Retail,Paid Search
+C00671,South,Small Business,Organic
+C00672,West,Retail,Paid Search
+C00673,South,Corporate,Paid Search
+C00674,South,Retail,Referral
+C00675,East,Retail,Paid Search
+C00676,,Retail,Referral
+C00677,North,Retail,Paid Search
+C00678,West,Retail,Referral
+C00679,West,Retail,Organic
+C00680,,Retail,Email
+C00681,North,Retail,Paid Search
+C00682,South,Retail,Organic
+C00683,North,Small Business,Organic
+C00684,West,Retail,Organic
+C00685,Central,Retail,Paid Search
+C00686,South,Retail,Social
+C00687,West,Retail,Email
+C00688,North,Retail,Social
+C00689,,Retail,Paid Search
+C00690,North,Small Business,Paid Search
+C00691,South,Retail,Referral
+C00692,West,Corporate,Referral
+C00693,Central,Retail,Organic
+C00694,North,Retail,Email
+C00695,East,Retail,Paid Search
+C00696,West,Retail,Referral
+C00697,Central,Retail,Email
+C00698,West,Corporate,Social
+C00699,South,Corporate,Organic
+C00700,West,Retail,Social
+C00701,South,Retail,Organic
+C00702,Central,Retail,Referral
+C00703,South,Retail,Organic
+C00704,West,Retail,Social
+C00705,North,Corporate,Email
+C00706,South,Small Business,Organic
+C00707,Central,Retail,Paid Search
+C00708,,Retail,Social
+C00709,East,Corporate,Paid Search
+C00710,Central,Small Business,Organic
+C00711,Central,Retail,Organic
+C00712,South,Retail,Paid Search
+C00713,East,Corporate,Social
+C00714,East,Small Business,Social
+C00715,West,Retail,Organic
+C00716,South,Small Business,Paid Search
+C00717,South,Retail,Paid Search
+C00718,Central,Small Business,Organic
+C00719,Central,Retail,Social
+C00720,Central,Retail,Paid Search
+C00721,Central,Retail,Paid Search
+C00722,West,Retail,Email
+C00723,West,Retail,Paid Search
+C00724,West,Retail,Social
+C00725,East,Retail,Organic
+C00726,East,Retail,Organic
+C00727,South,Corporate,Organic
+C00728,,Small Business,Referral
+C00729,South,Corporate,Referral
+C00730,South,Retail,Organic
+C00731,East,Retail,Organic
+C00732,South,Small Business,Paid Search
+C00733,North,Retail,Social
+C00734,Central,Retail,Social
+C00735,Central,Small Business,Social
+C00736,North,Small Business,Email
+C00737,North,Retail,Organic
+C00738,South,Corporate,Social
+C00739,West,Retail,Social
+C00740,Central,Corporate,Paid Search
+C00741,North,Retail,Email
+C00742,West,Retail,Organic
+C00743,North,Retail,Social
+C00744,South,Retail,Social
+C00745,Central,Corporate,Email
+C00746,North,Retail,Paid Search
+C00747,North,Small Business,Paid Search
+C00748,East,Small Business,Referral
+C00749,West,Retail,Referral
+C00750,Central,Corporate,Paid Search
+C00751,Central,Retail,Referral
+C00752,North,Retail,Organic
+C00753,North,Retail,Social
+C00754,West,Small Business,Email
+C00755,South,Small Business,Paid Search
+C00756,Central,Small Business,Paid Search
+C00757,West,Small Business,Email
+C00758,North,Small Business,Referral
+C00759,Central,Retail,Email
+C00760,North,Small Business,Paid Search
+C00761,East,Retail,Email
+C00762,East,Retail,Organic
+C00763,East,Retail,Paid Search
+C00764,West,Retail,Paid Search
+C00765,West,Retail,Referral
+C00766,Central,Retail,Email
+C00767,Central,Retail,Social
+C00768,East,Retail,Social
+C00769,North,Small Business,Paid Search
+C00770,West,Retail,Paid Search
+C00771,Central,Retail,Paid Search
+C00772,South,Retail,Organic
+C00773,East,Retail,Paid Search
+C00774,East,Retail,Email
+C00775,North,Small Business,Social
+C00776,West,Retail,Referral
+C00777,South,Corporate,Paid Search
+C00778,West,Corporate,Paid Search
+C00779,Central,Retail,Organic
+C00780,Central,Small Business,Paid Search
+C00781,South,Retail,Paid Search
+C00782,South,Small Business,Organic
+C00783,West,Corporate,Organic
+C00784,Central,Corporate,Social
+C00785,East,Corporate,Paid Search
+C00786,Central,Small Business,Paid Search
+C00787,North,Small Business,Organic
+C00788,Central,Retail,Paid Search
+C00789,North,Small Business,Paid Search
+C00790,North,Corporate,Paid Search
+C00791,East,Retail,Social
+C00792,North,Small Business,Organic
+C00793,North,Retail,Email
+C00794,North,Retail,Organic
+C00795,East,Retail,Paid Search
+C00796,West,Retail,Organic
+C00797,North,Small Business,Paid Search
+C00798,West,Retail,Organic
+C00799,Central,Retail,Email
+C00800,North,Retail,Paid Search
+C00801,North,Retail,Social
+C00802,Central,Small Business,Organic
+C00803,Central,Small Business,Organic
+C00804,East,Retail,Paid Search
+C00805,Central,Retail,Paid Search
+C00806,North,retail ,Paid Search
+C00807,South,Retail,Email
+C00808,West,Retail,Social
+C00809,South,Retail,Email
+C00810,West,Retail,Organic
+C00811,East,Retail,Referral
+C00812,West,Retail,Social
+C00813,East,Retail,Social
+C00814,South,Small Business,Email
+C00815,North,Corporate,Social
+C00816,,Retail,Email
+C00817,,Small Business,Social
+C00818,North,Small Business,Organic
+C00819,North,Retail,Social
+C00820,North,Retail,Paid Search
+C00821,North,Retail,Email
+C00822,Central,Corporate,Referral
+C00823,South,Retail,Organic
+C00824,Central,Corporate,Organic
+C00825,North,Retail,Organic
+C00826,West,Retail,Paid Search
+C00827,East,Small Business,Organic
+C00828,South,Retail,Social
+C00829,Central,Small Business,Social
+C00830,Central,Small Business,Referral
+C00831,Central,Small Business,Organic
+C00832,North,Retail,Paid Search
+C00833,South,Small Business,Organic
+C00834,West,Retail,Email
+C00835,South,Retail,Organic
+C00836,West,Small Business,Organic
+C00837,East,Corporate,Organic
+C00838,East,Retail,Referral
+C00839,Central,Retail,Organic
+C00840,West,Small Business,Social
+C00841,North,Corporate,Social
+C00842,North,Retail,Referral
+C00843,West,Small Business,Organic
+C00844,East,Retail,Organic
+C00845,South,Retail,Paid Search
+C00846,,Retail,Organic
+C00847,West,Small Business,Social
+C00848,Central,Retail,Paid Search
+C00849,East,Retail,Paid Search
+C00850,South,Retail,Organic
+C00851,South,Small Business,Social
+C00852,,Retail,Organic
+C00853,South,Retail,Social
+C00854,East,Small Business,Organic
+C00855,West,Retail,Email
+C00856,North,Retail,Social
+C00857,North,Retail,Organic
+C00858,North,Small Business,Organic
+C00859,Central,Retail,Paid Search
+C00860,,Retail,Organic
+C00861,North,Retail,Organic
+C00862,Central,Corporate,Email
+C00863,East,Corporate,Social
+C00864,East,Retail,Organic
+C00865,Central,Retail,Social
+C00866,North,Small Business,Organic
+C00867,North,Retail,Email
+C00868,East,Retail,Organic
+C00869,North,Retail,Social
+C00870,West,Retail,Referral
+C00871,North,Retail,Organic
+C00872,North,Retail,Organic
+C00873,North,Retail,Paid Search
+C00874,East,Retail,Email
+C00875,North,Corporate,Paid Search
+C00876,North,Retail,Social
+C00877,Central,Retail,Referral
+C00878,South,Small Business,Referral
+C00879,South,Retail,Paid Search
+C00880,North,Corporate,Paid Search
+C00881,South,Retail,Social
+C00882,South,Corporate,Organic
+C00883,West,Retail,Email
+C00884,North,Retail,Organic
+C00885,Central,Retail,Organic
+C00886,Central,Retail,Referral
+C00887,North,Retail,Paid Search
+C00888,North,Corporate,Organic
+C00889,North,Small Business,Organic
+C00890,West,Retail,Paid Search
+C00891,North,Small Business,Referral
+C00892,Central,Corporate,Organic
+C00893,West,Small Business,Organic
+C00894,Central,Corporate,Paid Search
+C00895,East,Corporate,Email
+C00896,Central,Retail,Organic
+C00897,North,Corporate,Email
+C00898,South,small business ,Email
+C00899,South,Retail,Organic
+C00900,Central,Retail,Referral
+C00901,East,Retail,Social
+C00902,Central,Small Business,Paid Search
+C00903,North,Retail,Paid Search
+C00904,Central,Corporate,Referral
+C00905,East,Small Business,Referral
+C00906,East,Small Business,Referral
+C00907,Central,Retail,Email
+C00908,South,Corporate,Paid Search
+C00909,South,Small Business,Referral
+C00910,East,Retail,Email
+C00911,North,Corporate,Organic
+C00912,South,Retail,Organic
+C00913,North,Retail,Paid Search
+C00914,North,Retail,Email
+C00915,Central,Retail,Organic
+C00916,East,Retail,Social
+C00917,South,Retail,Organic
+C00918,South,Retail,Paid Search
+C00919,East,Retail,Social
+C00920,,Retail,Organic
+C00921,Central,Retail,Email
+C00922,Central,Corporate,Organic
+C00923,South,Corporate,Email
+C00924,South,Retail,Organic
+C00925,East,Small Business,Email
+C00926,East,retail ,Social
+C00927,East,Small Business,Organic
+C00928,West,Retail,Organic
+C00929,East,Corporate,Organic
+C00930,South,Small Business,Social
+C00931,South,Small Business,Referral
+C00932,South,Retail,Paid Search
+C00933,North,Retail,Paid Search
+C00934,North,Retail,Social
+C00935,West,Corporate,Paid Search
+C00936,South,Corporate,Social
+C00937,North,Small Business,Paid Search
+C00938,East,Retail,Social
+C00939,West,Retail,Email
+C00940,South,Retail,Paid Search
+C00941,Central,Retail,Organic
+C00942,Central,Retail,Organic
+C00943,East,Retail,Social
+C00944,West,Corporate,Paid Search
+C00945,North,Retail,Email
+C00946,Central,Retail,Social
+C00947,South,Retail,Paid Search
+C00948,Central,Small Business,Referral
+C00949,East,Corporate,Organic
+C00950,North,Retail,Referral
+C00951,North,Retail,Organic
+C00952,West,Retail,Social
+C00953,East,Retail,Email
+C00954,North,Retail,Referral
+C00955,West,Retail,Email
+C00956,Central,Small Business,Paid Search
+C00957,East,Retail,Referral
+C00958,East,Corporate,Social
+C00959,North,Retail,Social
+C00960,West,Small Business,Organic
+C00961,South,Small Business,Organic
+C00962,Central,Corporate,Social
+C00963,South,Retail,Organic
+C00964,East,Retail,Social
+C00965,South,Small Business,Referral
+C00966,North,Corporate,Email
+C00967,West,Retail,Organic
+C00968,East,Retail,Email
+C00969,East,Retail,Organic
+C00970,Central,Small Business,Paid Search
+C00971,Central,Corporate,Referral
+C00972,Central,Retail,Organic
+C00973,North,Retail,Organic
+C00974,East,Retail,Organic
+C00975,Central,Retail,Paid Search
+C00976,South,Retail,Referral
+C00977,North,Corporate,Organic
+C00978,Central,Retail,Organic
+C00979,East,Retail,Social
+C00980,East,Retail,Organic
+C00981,Central,Retail,Social
+C00982,West,Retail,Email
+C00983,East,Retail,Referral
+C00984,South,Retail,Email
+C00985,South,Corporate,Paid Search
+C00986,North,Retail,Referral
+C00987,West,Retail,Organic
+C00988,Central,Retail,Organic
+C00989,South,Small Business,Social
+C00990,South,Retail,Organic
+C00991,Central,Corporate,Email
+C00992,North,Small Business,Social
+C00993,East,Corporate,Email
+C00994,East,Retail,Paid Search
+C00995,West,Corporate,Paid Search
+C00996,North,Retail,Social
+C00997,West,Retail,Organic
+C00998,South,Retail,Paid Search
+C00999,West,Retail,Social
+C01000,North,Retail,Email
+C01001,East,Retail,Social
+C01002,East,Retail,Organic
+C01003,North,Retail,Paid Search
+C01004,North,Retail,Social
+C01005,North,Small Business,Organic
+C01006,South,Retail,Paid Search
+C01007,North,Retail,Organic
+C01008,Central,Retail,Organic
+C01009,South,Retail,Paid Search
+C01010,Central,Retail,Organic
+C01011,Central,Retail,Social
+C01012,North,Retail,Organic
+C01013,West,Retail,Social
+C01014,Central,Retail,Organic
+C01015,West,Retail,Email
+C01016,East,Retail,Organic
+C01017,East,Retail,Paid Search
+C01018,North,Retail,Paid Search
+C01019,East,Retail,Organic
+C01020,Central,Retail,Paid Search
+C01021,Central,Retail,Referral
+C01022,North,Retail,Email
+C01023,West,Retail,Paid Search
+C01024,South,Small Business,Organic
+C01025,Central,Retail,Social
+C01026,North,Retail,Social
+C01027,Central,Retail,Organic
+C01028,Central,Small Business,Referral
+C01029,North,Retail,Paid Search
+C01030,North,Retail,Social
+C01031,Central,Small Business,Paid Search
+C01032,North,Retail,Paid Search
+C01033,East,Small Business,Organic
+C01034,Central,Retail,Referral
+C01035,East,Retail,Organic
+C01036,South,Retail,Referral
+C01037,East,Retail,Referral
+C01038,North,Small Business,Social
+C01039,Central,Retail,Organic
+C01040,South,Small Business,Organic
+C01041,North,Retail,Paid Search
+C01042,South,Retail,Social
+C01043,,Small Business,Email
+C01044,North,Retail,Paid Search
+C01045,Central,Small Business,Email
+C01046,West,Retail,Organic
+C01047,Central,Corporate,Paid Search
+C01048,Central,Retail,Organic
+C01049,Central,Retail,Social
+C01050,Central,Corporate,Organic
+C01051,North,Retail,Organic
+C01052,West,Retail,Referral
+C01053,East,Retail,Paid Search
+C01054,East,Small Business,Organic
+C01055,Central,Retail,Organic
+C01056,Central,Corporate,Paid Search
+C01057,West,Small Business,Paid Search
+C01058,East,Retail,Organic
+C01059,East,Retail,Social
+C01060,South,Corporate,Organic
+C01061,South,Retail,Social
+C01062,South,Retail,Paid Search
+C01063,North,Corporate,Organic
+C01064,North,Retail,Organic
+C01065,West,Retail,Organic
+C01066,East,Corporate,Organic
+C01067,Central,Retail,Paid Search
+C01068,West,Retail,Email
+C01069,North,Retail,Referral
+C01070,North,Small Business,Paid Search
+C01071,North,Corporate,Social
+C01072,Central,Retail,Social
+C01073,North,retail ,Referral
+C01074,East,Retail,Organic
+C01075,Central,Retail,Organic
+C01076,Central,Retail,Paid Search
+C01077,South,Small Business,Organic
+C01078,North,Retail,Paid Search
+C01079,North,Small Business,Email
+C01080,North,Retail,Email
+C01081,North,Retail,Organic
+C01082,East,Retail,Paid Search
+C01083,Central,Retail,Paid Search
+C01084,East,Corporate,Paid Search
+C01085,West,Small Business,Social
+C01086,North,Small Business,Organic
+C01087,Central,Retail,Referral
+C01088,West,Corporate,Email
+C01089,Central,Retail,Social
+C01090,Central,Small Business,Social
+C01091,South,Retail,Paid Search
+C01092,North,Retail,Paid Search
+C01093,South,Retail,Organic
+C01094,East,Retail,Social
+C01095,Central,Retail,Organic
+C01096,South,Small Business,Referral
+C01097,West,Corporate,Paid Search
+C01098,East,Small Business,Paid Search
+C01099,North,Retail,Paid Search
+C01100,South,Retail,Email
+C01101,West,Retail,Organic
+C01102,West,Retail,Organic
+C01103,East,Retail,Organic
+C01104,South,Retail,Social
+C01105,West,Retail,Email
+C01106,North,Retail,Organic
+C01107,Central,Retail,Email
+C01108,North,Corporate,Organic
+C01109,North,Retail,Social
+C01110,East,Small Business,Organic
+C01111,East,Retail,Paid Search
+C01112,East,Small Business,Social
+C01113,East,Corporate,Paid Search
+C01114,Central,Corporate,Organic
+C01115,East,Corporate,Referral
+C01116,East,Small Business,Email
+C01117,East,Retail,Paid Search
+C01118,North,Retail,Social
+C01119,East,Retail,Referral
+C01120,South,Retail,Organic
+C01121,West,Retail,Email
+C01122,North,Retail,Organic
+C01123,Central,Retail,Referral
+C01124,East,Retail,Organic
+C01125,Central,Retail,Organic
+C01126,East,Retail,Paid Search
+C01127,North,Corporate,Paid Search
+C01128,Central,Small Business,Email
+C01129,West,Retail,Email
+C01130,West,Retail,Organic
+C01131,East,Retail,Organic
+C01132,West,Retail,Paid Search
+C01133,Central,Corporate,Paid Search
+C01134,West,Retail,Paid Search
+C01135,South,Small Business,Email
+C01136,West,Retail,Referral
+C01137,West,Small Business,Organic
+C01138,Central,retail ,Paid Search
+C01139,South,Retail,Social
+C01140,East,Corporate,Paid Search
+C01141,Central,Retail,Organic
+C01142,East,Corporate,Paid Search
+C01143,West,Retail,Paid Search
+C01144,East,Retail,Organic
+C01145,North,Retail,Referral
+C01146,West,Corporate,Paid Search
+C01147,North,Retail,Social
+C01148,North,Small Business,Paid Search
+C01149,West,Corporate,Email
+C01150,West,Corporate,Organic
+C01151,Central,Retail,Organic
+C01152,,Corporate,Paid Search
+C01153,North,Small Business,Paid Search
+C01154,Central,Retail,Organic
+C01155,North,Retail,Referral
+C01156,North,Retail,Organic
+C01157,South,Retail,Organic
+C01158,East,Corporate,Paid Search
+C01159,Central,Retail,Referral
+C01160,West,Retail,Email
+C01161,West,Retail,Social
+C01162,North,Retail,Social
+C01163,South,Retail,Social
+C01164,East,Small Business,Social
+C01165,North,Retail,Organic
+C01166,South,Retail,Social
+C01167,South,Corporate,Referral
+C01168,North,Retail,Paid Search
+C01169,East,Retail,Social
+C01170,West,Retail,Paid Search
+C01171,North,Small Business,Paid Search
+C01172,East,Corporate,Organic
+C01173,West,Retail,Social
+C01174,West,Retail,Email
+C01175,Central,Retail,Organic
+C01176,East,Retail,Paid Search
+C01177,Central,Retail,Organic
+C01178,South,Small Business,Organic
+C01179,South,Corporate,Email
+C01180,North,Retail,Paid Search
+C01181,East,Corporate,Paid Search
+C01182,South,Small Business,Organic
+C01183,South,Retail,Email
+C01184,West,Retail,Organic
+C01185,South,Small Business,Social
+C01186,South,Retail,Organic
+C01187,North,Small Business,Organic
+C01188,East,Retail,Social
+C01189,South,Retail,Organic
+C01190,South,Corporate,Social
+C01191,South,Retail,Organic
+C01192,West,Retail,Social
+C01193,Central,Retail,Referral
+C01194,East,Retail,Social
+C01195,West,Retail,Organic
+C01196,Central,Retail,Social
+C01197,Central,Retail,Email
+C01198,West,Retail,Organic
+C01199,Central,Retail,Organic
+C01200,Central,Small Business,Referral
+C01201,West,Retail,Organic
+C01202,East,Retail,Social
+C01203,North,Retail,Referral
+C01204,North,Retail,Organic
+C01205,East,Corporate,Social
+C01206,East,Retail,Social
+C01207,South,Retail,Paid Search
+C01208,East,Small Business,Email
+C01209,East,Small Business,Organic
+C01210,,Corporate,Paid Search
+C01211,North,Small Business,Referral
+C01212,South,Small Business,Organic
+C01213,West,Retail,Referral
+C01214,Central,Retail,Organic
+C01215,Central,Retail,Paid Search
+C01216,Central,Retail,Organic
+C01217,Central,Retail,Social
+C01218,South,Retail,Referral
+C01219,South,Corporate,Referral
+C01220,South,Corporate,Email
+C01221,West,Corporate,Social
+C01222,Central,Retail,Referral
+C01223,South,Retail,Paid Search
+C01224,East,Retail,Email
+C01225,South,Retail,Social
+C01226,North,Small Business,Email
+C01227,North,Small Business,Organic
+C01228,North,Small Business,Paid Search
+C01229,Central,Small Business,Social
+C01230,South,Small Business,Organic
+C01231,Central,Retail,Organic
+C01232,West,Retail,Email
+C01233,North,Retail,Paid Search
+C01234,North,Retail,Organic
+C01235,Central,Retail,Paid Search
+C01236,South,Retail,Paid Search
+C01237,Central,Small Business,Social
+C01238,North,Retail,Email
+C01239,West,Small Business,Email
+C01240,Central,Corporate,Social
+C01241,South,Retail,Social
+C01242,South,Corporate,Paid Search
+C01243,Central,Retail,Email
+C01244,South,Retail,Organic
+C01245,East,Retail,Organic
+C01246,East,Small Business,Email
+C01247,South,Retail,Email
+C01248,West,Retail,Paid Search
+C01249,West,Corporate,Social
+C01250,South,Corporate,Paid Search
+C01251,Central,Retail,Paid Search
+C01252,North,Retail,Organic
+C01253,North,Retail,Organic
+C01254,East,Corporate,Paid Search
+C01255,Central,Retail,Paid Search
+C01256,North,Retail,Paid Search
+C01257,North,Retail,Organic
+C01258,East,Retail,Email
+C01259,Central,Retail,Social
+C01260,North,Retail,Email
+C01261,South,Retail,Organic
+C01262,West,Retail,Social
+C01263,South,Retail,Referral
+C01264,North,Retail,Paid Search
+C01265,North,Corporate,Organic
+C01266,South,Small Business,Organic
+C01267,East,Retail,Organic
+C01268,Central,Small Business,Paid Search
+C01269,West,Retail,Paid Search
+C01270,West,Retail,Organic
+C01271,,Corporate,Social
+C01272,South,Corporate,Organic
+C01273,South,Small Business,Paid Search
+C01274,Central,Retail,Social
+C01275,South,Corporate,Organic
+C01276,West,Retail,Organic
+C01277,West,Retail,Organic
+C01278,North,Retail,Organic
+C01279,East,Small Business,Paid Search
+C01280,North,Retail,Organic
+C01281,North,Small Business,Organic
+C01282,East,Retail,Email
+C01283,South,Corporate,Email
+C01284,West,Corporate,Organic
+C01285,Central,Small Business,Paid Search
+C01286,Central,Retail,Paid Search
+C01287,South,Retail,Referral
+C01288,South,Retail,Referral
+C01289,South,Retail,Organic
+C01290,North,Retail,Organic
+C01291,Central,Retail,Paid Search
+C01292,South,Retail,Email
+C01293,South,Retail,Email
+C01294,Central,Retail,Organic
+C01295,South,Small Business,Social
+C01296,North,Retail,Organic
+C01297,North,Small Business,Social
+C01298,West,Small Business,Email
+C01299,West,Retail,Paid Search
+C01300,North,Corporate,Organic
+C01301,Central,Retail,Social
+C01302,Central,Corporate,Paid Search
+C01303,Central,Retail,Referral
+C01304,South,Retail,Paid Search
+C01305,North,Retail,Email
+C01306,Central,Retail,Organic
+C01307,South,Small Business,Organic
+C01308,West,Corporate,Paid Search
+C01309,West,Corporate,Organic
+C01310,North,Small Business,Organic
+C01311,West,Corporate,Social
+C01312,Central,Retail,Organic
+C01313,West,Small Business,Organic
+C01314,East,Retail,Organic
+C01315,Central,Retail,Organic
+C01316,East,Retail,Email
+C01317,West,Small Business,Email
+C01318,Central,Retail,Organic
+C01319,West,Retail,Referral
+C01320,South,Retail,Social
+C01321,North,Retail,Email
+C01322,South,Retail,Paid Search
+C01323,East,Corporate,Organic
+C01324,East,Small Business,Paid Search
+C01325,East,Retail,Email
+C01326,South,Retail,Social
+C01327,West,Retail,Paid Search
+C01328,Central,Retail,Organic
+C01329,South,Retail,Social
+C01330,West,Corporate,Email
+C01331,West,Retail,Paid Search
+C01332,East,Retail,Social
+C01333,North,Retail,Paid Search
+C01334,West,Retail,Paid Search
+C01335,Central,Retail,Paid Search
+C01336,West,Small Business,Referral
+C01337,Central,Corporate,Email
+C01338,Central,Small Business,Paid Search
+C01339,South,Small Business,Paid Search
+C01340,West,Retail,Paid Search
+C01341,East,Small Business,Organic
+C01342,Central,Retail,Organic
+C01343,North,Retail,Organic
+C01344,South,Retail,Paid Search
+C01345,Central,Retail,Organic
+C01346,South,Retail,Paid Search
+C01347,West,Retail,Referral
+C01348,South,Corporate,Organic
+C01349,Central,Corporate,Social
+C01350,Central,Retail,Email
+C01351,South,Retail,Social
+C01352,West,Corporate,Organic
+C01353,South,Retail,Paid Search
+C01354,West,Retail,Social
+C01355,West,Retail,Paid Search
+C01356,Central,Retail,Organic
+C01357,North,Retail,Paid Search
+C01358,South,Small Business,Paid Search
+C01359,West,Corporate,Organic
+C01360,East,Corporate,Social
+C01361,East,Retail,Organic
+C01362,North,Small Business,Paid Search
+C01363,South,Corporate,Referral
+C01364,Central,Retail,Organic
+C01365,North,Retail,Social
+C01366,South,Retail,Paid Search
+C01367,Central,Retail,Paid Search
+C01368,North,Retail,Email
+C01369,West,Retail,Paid Search
+C01370,South,Retail,Organic
+C01371,Central,Retail,Email
+C01372,West,Retail,Social
+C01373,Central,Small Business,Social
+C01374,North,Retail,Organic
+C01375,East,Retail,Organic
+C01376,West,Retail,Social
+C01377,South,Small Business,Organic
+C01378,South,Retail,Organic
+C01379,North,Small Business,Referral
+C01380,Central,Retail,Organic
+C01381,West,Retail,Organic
+C01382,West,Retail,Organic
+C01383,West,Retail,Paid Search
+C01384,East,Small Business,Social
+C01385,East,Small Business,Email
+C01386,East,Retail,Organic
+C01387,West,Small Business,Organic
+C01388,,Retail,Paid Search
+C01389,Central,Retail,Paid Search
+C01390,Central,Retail,Paid Search
+C01391,South,Retail,Email
+C01392,East,Small Business,Paid Search
+C01393,North,Retail,Paid Search
+C01394,Central,Retail,Email
+C01395,Central,Retail,Organic
+C01396,Central,Retail,Email
+C01397,South,Retail,Paid Search
+C01398,North,Corporate,Paid Search
+C01399,North,Retail,Email
+C01400,North,Retail,Paid Search
+C01401,North,Retail,Paid Search
+C01402,North,Retail,Organic
+C01403,Central,Retail,Social
+C01404,North,Corporate,Social
+C01405,North,Small Business,Organic
+C01406,Central,Retail,Social
+C01407,East,Small Business,Social
+C01408,West,Retail,Paid Search
+C01409,West,Retail,Organic
+C01410,Central,Corporate,Paid Search
+C01411,West,Corporate,Organic
+C01412,East,Small Business,Organic
+C01413,West,Retail,Paid Search
+C01414,East,Retail,Organic
+C01415,South,Retail,Organic
+C01416,East,Retail,Social
+C01417,North,Corporate,Paid Search
+C01418,West,Retail,Email
+C01419,South,Retail,Email
+C01420,North,Retail,Social
+C01421,South,Retail,Email
+C01422,Central,Retail,Email
+C01423,South,Retail,Paid Search
+C01424,West,Retail,Social
+C01425,Central,Retail,Organic
+C01426,North,Retail,Social
+C01427,West,Retail,Paid Search
+C01428,South,Corporate,Organic
+C01429,North,Retail,Organic
+C01430,West,Retail,Email
+C01431,Central,Retail,Paid Search
+C01432,South,Small Business,Organic
+C01433,East,Corporate,Organic
+C01434,South,Retail,Paid Search
+C01435,East,Retail,Referral
+C01436,West,Retail,Referral
+C01437,West,Small Business,Paid Search
+C01438,West,Retail,Organic
+C01439,North,retail ,Organic
+C01440,West,Small Business,Paid Search
+C01441,West,Corporate,Referral
+C01442,West,Retail,Social
+C01443,North,Retail,Paid Search
+C01444,East,Retail,Social
+C01445,South,Retail,Paid Search
+C01446,North,Retail,Social
+C01447,South,Small Business,Paid Search
+C01448,East,Small Business,Social
+C01449,West,Retail,Paid Search
+C01450,South,Retail,Email
+C01451,Central,Retail,Paid Search
+C01452,East,Retail,Organic
+C01453,West,Corporate,Organic
+C01454,East,Retail,Paid Search
+C01455,East,Retail,Paid Search
+C01456,West,Retail,Social
+C01457,Central,Retail,Social
+C01458,,Retail,Organic
+C01459,East,Corporate,Social
+C01460,West,Small Business,Social
+C01461,West,Retail,Paid Search
+C01462,North,Small Business,Paid Search
+C01463,East,Retail,Organic
+C01464,East,small business ,Paid Search
+C01465,Central,Retail,Referral
+C01466,East,Retail,Email
+C01467,East,Small Business,Social
+C01468,Central,Retail,Organic
+C01469,East,Retail,Social
+C01470,North,Retail,Social
+C01471,North,Retail,Paid Search
+C01472,North,Retail,Referral
+C01473,North,Retail,Organic
+C01474,East,Small Business,Organic
+C01475,West,retail ,Organic
+C01476,West,Retail,Organic
+C01477,North,Retail,Email
+C01478,East,Small Business,Paid Search
+C01479,North,Retail,Organic
+C01480,Central,Retail,Paid Search
+C01481,North,Retail,Paid Search
+C01482,West,Corporate,Paid Search
+C01483,South,Corporate,Organic
+C01484,West,Retail,Social
+C01485,South,Corporate,Organic
+C01486,West,Retail,Referral
+C01487,South,Retail,Organic
+C01488,Central,Retail,Social
+C01489,East,Retail,Referral
+C01490,West,Retail,Organic
+C01491,Central,Retail,Organic
+C01492,Central,Retail,Email
+C01493,South,Retail,Paid Search
+C01494,South,Retail,Social
+C01495,South,corporate ,Organic
+C01496,South,Corporate,Organic
+C01497,East,Retail,Paid Search
+C01498,Central,Retail,Email
+C01499,Central,Retail,Organic
+C01500,East,Retail,Referral
